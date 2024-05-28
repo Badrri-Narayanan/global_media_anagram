@@ -1,0 +1,10 @@
+abc
+fun
+bac
+fun
+cba
+unf
+hello
+world
+silent
+listen
